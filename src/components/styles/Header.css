@@ -1,0 +1,143 @@
+.hero-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100% - 2rem);
+  max-width: 1400px;
+  padding: 20px 50px;
+  background: rgba(255, 255, 255, 0.01);
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 0px;
+}
+
+.hero-logo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+}
+
+.hero-hamburger {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.hero-hamburger span {
+  background: #fbf9f9;
+  height: 3px;
+  width: 30px;
+  margin: 5px 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.full-page-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #fff;
+  z-index: 1100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-btn {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  font-size: 2rem;
+  color: #000;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.menu-list li {
+  margin: 20px 0;
+}
+
+.menu-list li a {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.menu-list li .active {
+  color: #68a5a5;
+}
+
+@media (max-width: 1200px) {
+  .hero-navbar {
+    padding: 15px 40px;
+  }
+
+  .hero-logo {
+    font-size: 1.8rem;
+  }
+
+  .menu-list li a {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .hero-navbar {
+    padding: 15px 30px;
+  }
+
+  .hero-logo {
+    font-size: 1.6rem;
+  }
+
+  .menu-list li a {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-navbar {
+    width: calc(100% - 1rem);
+    padding: 15px 20px;
+  }
+
+  .hero-logo {
+    font-size: 1.5rem;
+  }
+
+  .hero-hamburger {
+    right: 20px;
+  }
+
+  .menu-list li a {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-navbar {
+    padding: 10px 15px;
+  }
+
+  .hero-logo {
+    font-size: 1.3rem;
+  }
+
+  .menu-list li a {
+    font-size: 1.3rem;
+  }
+}
