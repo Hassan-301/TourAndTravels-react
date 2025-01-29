@@ -11,7 +11,7 @@ const About= () => {
       <Header />
       <Hero
        title="About Us"
-       backgroundImage='./assets/img_1_long.WEBP'
+       backgroundImage='./assets/img_1_long.webp'
       />
       <WelcomeSection />
       <TourCarousel title="Hotel Gallery" />
