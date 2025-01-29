@@ -4,6 +4,7 @@
   align-items: flex-start;
   gap: 50px;
   padding: 50px;
+  overflow-x: hidden;
 }
 
 .contact-form {
