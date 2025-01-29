@@ -7,28 +7,28 @@ const Destinations = () => {
     {
       id: 1,
       title: 'Food & Wines',
-      image: './assets/img_1.WEBP',
+      image: './assets/img_1.webp',
       rating: 4,
       reviews: '3,239 reviews'
     },
     {
       id: 2,
       title: 'Resort & Spa',
-      image: './assets/img_2.WEBP',
+      image: './assets/img_2.webp',
       rating: 4,
       reviews: '4,921 reviews'
     },
     {
       id: 3,
       title: 'Hotel Rooms',
-      image: './assets/img_3.WEBP',
+      image: './assets/img_3.webp',
       rating: 4,
       reviews: '2,112 reviews'
     },
     {
       id: 4,
       title: 'Mountain Climbing',
-      image: './assets/img_4.WEBP',
+      image: './assets/img_4.webp',
       rating: 4,
       reviews: '6,421 reviews'
     }
