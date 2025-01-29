@@ -13,7 +13,7 @@ const Hotels= () => {
       <Header />
       <Hero
        title="Our Hotel"
-       backgroundImage='./assets/slider-4.WEBP'
+       backgroundImage='./assets/slider-4.webp'
       />
       <Experience/>
       <Rooms/>
