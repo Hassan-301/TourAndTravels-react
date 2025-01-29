@@ -5,37 +5,37 @@ const Blog = () => {
   const blogPosts = [
     {
       id: 1,
-      image: '/assets/img_1.WEBP',
+      image: '/assets/img_1.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 2,
-      image: '/assets/img_2.WEBP',
+      image: '/assets/img_2.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 3,
-      image: '/assets/img_3.WEBP',
+      image: '/assets/img_3.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 4,
-      image: '/assets/img_1.WEBP',
+      image: '/assets/img_1.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 5,
-      image: '/assets/img_2.WEBP',
+      image: '/assets/img_2.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 6,
-      image: '/assets/img_3.WEBP',
+      image: '/assets/img_3.webp',
       date: 'FEBRUARY 26, 2018',
       title: 'Free Template by Colorlib',
     },
@@ -44,25 +44,25 @@ const Blog = () => {
   const popularPosts = [
     {
       id: 1,
-      image: '/assets/img_1.WEBP',
+      image: '/assets/img_1.webp',
       date: 'FEBRUARY 27, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 2,
-      image: '/assets/img_2.WEBP',
+      image: '/assets/img_2.webp',
       date: 'FEBRUARY 27, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 3,
-      image: '/assets/img_1.WEBP',
+      image: '/assets/img_1.webp',
       date: 'FEBRUARY 27, 2018',
       title: 'Free Template by Colorlib',
     },
     {
       id: 4,
-      image: '/assets/img_3.WEBP',
+      image: '/assets/img_3.webp',
       date: 'FEBRUARY 27, 2018',
       title: 'Free Template by Colorlib',
     },
