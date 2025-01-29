@@ -9,7 +9,7 @@ const News = () => {
       <Header />
       <Hero
        title="Blog"
-       backgroundImage='./assets/blog3.JPG'
+       backgroundImage='./assets/blog3.jpg'
       />
       <Blog/>
       <Footer />
