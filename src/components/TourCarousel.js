@@ -2,12 +2,12 @@ import React, { useState, useEffect } from 'react';
 import './styles/TourCarousel.css';
 
 const images = [
-  './assets/slider-1.WEBP',
-  './assets/slider-2.WEBP',
-  './assets/slider-3.WEBP',
-  './assets/slider-4.WEBP',
-  './assets/slider-5.WEBP',
-  './assets/slider-6.WEBP'
+  './assets/slider-1.webp',
+  './assets/slider-2.webp',
+  './assets/slider-3.webp',
+  './assets/slider-4.webp',
+  './assets/slider-5.webp',
+  './assets/slider-6.webp'
 ];
 
 const TourCarousel = ({ title }) => {
