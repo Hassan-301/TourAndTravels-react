@@ -3,6 +3,7 @@
     max-width: 1200px;
     margin: 50px auto;
     gap: 30px;
+     overflow-x: hidden;
 }
 
 .blog-posts {
