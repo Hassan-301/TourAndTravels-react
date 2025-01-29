@@ -9,21 +9,21 @@ const RecentBlogPost = () => {
       date: 'FEBRUARY 26, 2018',
       title: '45 Best Places To Unwind',
       description: 'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.',
-      image: './assets/img_1.WEBP'
+      image: './assets/img_1.webp'
     },
     {
       id: 2,
       date: 'FEBRUARY 26, 2018',
       title: '45 Best Places To Unwind',
       description: 'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.',
-      image: './assets/img_2.WEBP'
+      image: './assets/img_2.webp'
     },
     {
       id: 3,
       date: 'FEBRUARY 26, 2018',
       title: '45 Best Places To Unwind',
       description: 'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.',
-      image: './assets/img_3.WEBP'
+      image: './assets/img_3.webp'
     }
   ];
 
