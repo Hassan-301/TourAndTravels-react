@@ -6,37 +6,37 @@ const teamMembers = [
     id: 1,
     name: 'Vince Richardson',
     position: 'CEO, CO-FOUNDER',
-    image: '/assets/person_2.WEBP'
+    image: '/assets/person_2.webp'
   },
   {
     id: 2,
     name: 'Jean Love',
     position: 'CTO, CO-FOUNDER',
-    image: '/assets/person_1.WEBP'
+    image: '/assets/person_1.webp'
   },
   {
     id: 3,
     name: 'Jeff Stark',
     position: 'MARKETER, CO-FOUNDER',
-    image: '/assets/person_3.WEBP'
+    image: '/assets/person_3.webp'
   },
   {
     id: 4,
     name: 'Vince Richardson',
     position: 'CEO, CO-FOUNDER',
-    image: '/assets/person_2.WEBP'
+    image: '/assets/person_2.webp'
   },
   {
     id: 5,
     name: 'Jean Love',
     position: 'CTO, CO-FOUNDER',
-    image: '/assets/person_1.WEBP'
+    image: '/assets/person_1.webp'
   },
   {
     id: 6,
     name: 'Jeff Stark',
     position: 'MARKETER, CO-FOUNDER',
-    image: '/assets/person_3.WEBP'
+    image: '/assets/person_3.webp'
   }
 ];
 
