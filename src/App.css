@@ -3,12 +3,10 @@
   margin: 0;
   padding: 0;
   font-family: 'Arial', sans-serif;
-  overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 .App-logo {
-  height: 10vw; /* Changed to vw for better responsiveness */
-  max-height: 40vmin; /* Ensures it doesn't exceed the original size */
+  height: 40vmin;
   pointer-events: none;
 }
 
@@ -22,13 +20,12 @@
   background-color: transparent;
   min-height: auto;
   display: block;
-  font-size: calc(1rem + 1vw); /* Adjusted for better scaling on different devices */
+  font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
-  font-size: calc(0.8rem + 0.5vw); /* Responsive font size */
 }
 
 @keyframes App-logo-spin {
