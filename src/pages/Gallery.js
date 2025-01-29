@@ -9,7 +9,7 @@ const Gallery = () => {
       <Header />
       <Hero
        title="Gallery"
-       backgroundImage='./assets/img_1_long.WEBP'
+       backgroundImage='./assets/img_1_long.webp'
       />
       <ImageGallery />
       <Footer />
