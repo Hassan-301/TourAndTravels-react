@@ -34,6 +34,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "homepage": "https://github.com/Hassan-301/TourAndTravels-react",
+    "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+}
   }
 }
