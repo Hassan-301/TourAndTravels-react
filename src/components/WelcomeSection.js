@@ -5,7 +5,7 @@ const WelcomeSection = () => {
   return (
     <div className="welcome-section">
       <div className="welcome-image">
-        <img src="/assets/hero_1.WEBP" alt="Welcome Travel" />
+        <img src="/assets/hero_1.webp" alt="Welcome Travel" />
       </div>
       <div className="welcome-content">
         <h2 className="welcome-title">Welcome Travel & Tours</h2>
