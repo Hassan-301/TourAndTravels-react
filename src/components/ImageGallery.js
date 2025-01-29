@@ -3,18 +3,18 @@ import './styles/ImageGallery.css';
 
 const ImageGallery = () => {
   const images = [
-    '/assets/img_1.WEBP',
-    '/assets/img_2.WEBP',
-    '/assets/img_3.WEBP',
-    '/assets/img_1.WEBP',
-    '/assets/img_4.WEBP',
-    '/assets/img_5.WEBP',
-    '/assets/img_3.WEBP',
-    '/assets/img_2.WEBP',
-    '/assets/img_5.WEBP',
-    '/assets/img_1.WEBP',
-    '/assets/img_2.WEBP',
-    '/assets/img_3.WEBP',
+    '/assets/img_1.webp',
+    '/assets/img_2.webp',
+    '/assets/img_3.webp',
+    '/assets/img_1.webp',
+    '/assets/img_4.webp',
+    '/assets/img_5.webp',
+    '/assets/img_3.webp',
+    '/assets/img_2.webp',
+    '/assets/img_5.webp',
+    '/assets/img_1.webp',
+    '/assets/img_2.webp',
+    '/assets/img_3.webp',
   ];
 
   return (
