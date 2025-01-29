@@ -6,7 +6,7 @@ const AboutUs = () => {
     <div className="about-section">
       <div className="about-container">
         <div className="about-image">
-          <img src="/assets/img_1_long.WEBP" alt="About Us" />
+          <img src="/assets/img_1_long.webp" alt="About Us" />
         </div>
         <div className="about-content">
           <h2 className="about-title">Welcome To Our Website</h2>
