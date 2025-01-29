@@ -2,15 +2,15 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: calc(100% - 2rem);
-  max-width: 1400px;
-  padding: 20px 50px;
+  width: 100%;
+  padding: 20px 1rem;
   background: rgba(255, 255, 255, 0.01);
   z-index: 1000;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-radius: 0px;
+  overflow: hidden;
 }
 
 .hero-logo {
@@ -83,7 +83,7 @@
 
 @media (max-width: 1200px) {
   .hero-navbar {
-    padding: 15px 40px;
+    padding: 15px 1rem;
   }
 
   .hero-logo {
@@ -97,7 +97,7 @@
 
 @media (max-width: 992px) {
   .hero-navbar {
-    padding: 15px 30px;
+    padding: 15px 1rem;
   }
 
   .hero-logo {
@@ -111,8 +111,7 @@
 
 @media (max-width: 768px) {
   .hero-navbar {
-    width: calc(100% - 1rem);
-    padding: 15px 20px;
+    padding: 15px 1rem;
   }
 
   .hero-logo {
@@ -130,7 +129,7 @@
 
 @media (max-width: 576px) {
   .hero-navbar {
-    padding: 10px 15px;
+    padding: 10px 1rem;
   }
 
   .hero-logo {

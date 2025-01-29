@@ -2,6 +2,7 @@
   text-align: center;
   padding: 60px 20px;
   font-family: 'Arial', sans-serif;
+  overflow-x: hidden;
 }
 
 .experience-title {
@@ -26,6 +27,7 @@
   justify-items: center;
   max-width: 1000px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 .experience-item {

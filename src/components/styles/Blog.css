@@ -1,8 +1,10 @@
 .blog-container {
     display: flex;
-    max-width: 1200px;
+    flex-direction: column;
+    max-width: 100%;
     margin: 50px auto;
     gap: 30px;
+    overflow-x: hidden;
 }
 
 .blog-posts {

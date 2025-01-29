@@ -3,6 +3,7 @@
   color: #fff;
   padding: 50px 0;
   font-family: Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 .footer-container {
@@ -16,6 +17,7 @@
 
 .footer-column {
   width: 22%;
+  min-width: 200px; 
 }
 
 .footer-column h3 {

@@ -1,9 +1,10 @@
 .welcome-section {
     display: flex;
     align-items: center;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 50px auto;
     gap: 50px;
+    overflow-x: hidden;
 }
 
 .welcome-image img {

@@ -3,6 +3,7 @@
   padding: 50px 20px;
   font-family: 'Arial', sans-serif;
   background-color: #f9f9f9;
+  overflow-x: hidden;
 }
 
 .section-title {
@@ -21,7 +22,7 @@
 .testimonial-card {
   max-width: 300px;
   text-align: center;
-  flex: 1 1 250px; /* Allow cards to grow and shrink */
+  flex: 1 1 250px;
 }
 
 .testimonial-image {
@@ -66,6 +67,6 @@
   }
 
   .testimonial-card {
-    max-width: 100%; /* Full width on small screens */
+    max-width: 100%;
   }
 }

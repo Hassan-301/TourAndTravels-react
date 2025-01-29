@@ -5,12 +5,13 @@
   align-items: center;
   padding: 50px 20px;
   font-family: 'Arial', sans-serif;
+  overflow-x: hidden; 
 }
 
 .about-container {
   display: flex;
   flex-direction: column;
-  max-width: 1200px;
+  max-width: 100%; 
   align-items: center;
   gap: 20px;
 }
