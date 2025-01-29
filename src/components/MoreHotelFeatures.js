@@ -4,17 +4,17 @@ import './styles/MoreHotelFeatures.css';
 const features = [
   {
     id: 1,
-    image: '/assets/img_1.WEBP',
+    image: '/assets/img_1.webp',
     title: 'Five Reasons to Stay at Villa Resort'
   },
   {
     id: 2,
-    image: '/assets/img_2.WEBP',
+    image: '/assets/img_2.webp',
     title: 'Five Reasons to Stay at Villa Resort'
   },
   {
     id: 3,
-    image: '/assets/img_3.WEBP',
+    image: '/assets/img_3.webp',
     title: 'Five Reasons to Stay at Villa Resort'
   }
 ];
