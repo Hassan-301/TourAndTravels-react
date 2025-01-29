@@ -10,7 +10,7 @@ const Contact = () => {
       <Header />
       <Hero
        title="Contact"
-       backgroundImage='./assets/slider-3.WEBP'
+       backgroundImage='./assets/slider-3.webp'
       />
        <ContactForm/>
        <Testimonials />
